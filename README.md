@@ -10,7 +10,7 @@
 
 ## Resources
 
-### 💫 Official OKP4 links
+### 💫 Official OKP4 link
 
 - <img
 src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://linktr.ee/okp4)
