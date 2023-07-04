@@ -1,11 +1,9 @@
 name: Auto fix Markdown
-
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "0 0 * * *"
-
+    
 jobs:
   auto-fix-markdown:
     runs-on: ubuntu-22.04
