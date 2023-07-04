@@ -1,8 +1,11 @@
 name: Auto fix Markdown
+
 on:
   workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
   auto-fix-markdown:
     runs-on: ubuntu-22.04
@@ -11,12 +14,14 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.OKP4_TOKEN }}
+
       - name: Lint markdown files
         uses: avto-dev/markdown-lint@v1.5.0
         continue-on-error: true
         with:
           args: "README.md"
           fix: true
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
