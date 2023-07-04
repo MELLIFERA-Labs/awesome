@@ -67,64 +67,78 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 
 <details>
   <summary>RPC</summary>
+  
 |               Thanks To                |                      URL                       | Status |
 |:--------------------------------------:|:----------------------------------------------:|:------:|
 |  [Chainlayer](https://chainlayer.io)   |     <https://okptest-rpc.quickapi.com:443>     |   ✅    |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network:26657> |   ✅    |
 |     [Nodeist](https://nodeist.net)     |         <https://rpc-okp4.nodeist.net>         |   ✅    |
+  
 </details>
 
 <details>
   <summary>API</summary>
+  
 |               Thanks To                |                      URL                      | Status |
 |:--------------------------------------:|:---------------------------------------------:|:------:|
 |  [Chainlayer](https://chainlayer.io)   |    <https://okptest-lcd.quickapi.com:443>     |   ✅    |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network:1317> |   ✅    |
 |     [Nodeist](https://nodeist.net)     |        <https://api-okp4.nodeist.net>         |   ✅    |
+  
 </details>
 
 <details>
   <summary>gRPC</summary>
+  
 | Thanks To                              | URL                                           |
 |----------------------------------------|-----------------------------------------------|
 | [Nodeist](https://nodeist.net)         | <https://grpc-okp4.nodeist.net>               |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network:9090> |
+  
 </details>
 
 
 <details>
   <summary>Addrbook</summary>
+  
 | Thanks To                              | URL                                                             | Status |
 |----------------------------------------|-----------------------------------------------------------------|--------|
 | [Nodeist](https://nodeist.net)         | <https://ss.nodeist.net/t/okp4/addrbook.json>                   | ✅      |
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network/snapshot/addrbook.json> | ✅      |
 | [Chainlayer](https://chainlayer.io)    | <https://dl2.quicksync.io/json/addrbook.okp4testnet.json>       | ✅      |
+
 </details>
 
 <details>
   <summary>Snapshot</summary>
+  
 | Thanks To                              | URL                                                | Status |
 |----------------------------------------|----------------------------------------------------|--------|
 | [MELLIFERA](https://mellifera.network) | <https://okp4-testnet.mellifera.network/snapshot/> | ✅      |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                        | ✅      |
 | [Chainlayer](https://quickapi.com)     | <https://quicksync.io/networks/okp4.html>          | ✅      |
+
 </details>
 
 <details>
   <summary>State / Quick Sync</summary>
+  
 | Thanks To                              | URL                                           | Status |
 |----------------------------------------|-----------------------------------------------|--------|
 | [Chainlayer](https://quicksync.io)     | <https://quicksync.io/networks/okp4.html>     | ✅      |
 | [MELLIFERA](https://mellifera.network) | <https://mellifera.network/manuals/okp4.html> | ✅      |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                   | ✅      |
+
 </details>
 
 <details>
   <summary>Live Peer</summary>
+  
 | Thanks To                              | Live Peer                                                                                                                  |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | [MELLIFERA](https://mellifera.network) | 866b505e44a2077def00ede26999551bedb5bddd@okp4-testnet.mellifera.network:29959                                              |
 | [Nodeist](https://nodeist.net)         | d5519e378247dfb61dfe90652d1fe3e2b3005a5b@65.109.68.190:13656,8028015d1c6828a0b734f3b108f0853b0e19305e@157.90.176.184:26656 |
+
 </details>
 
 ## 📊 Dashboards
