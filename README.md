@@ -97,7 +97,6 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
   
 </details>
 
-
 <details>
   <summary>Addrbook</summary>
   
