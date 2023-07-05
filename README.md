@@ -125,7 +125,7 @@ src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://l
 | Thanks To                              | URL                                           | Status |
 |----------------------------------------|-----------------------------------------------|--------|
 | [Chainlayer](https://quicksync.io)     | <https://quicksync.io/networks/okp4.html>     | ✅      |
-| [MELLIFERA](https://mellifera.network) | <https://melllifera.network/manuals/okp4.html> | ❌      |
+| [MELLIFERA](https://mellifera.network) | <https://mellifera.network/manuals/okp4.html> | ❌      |
 | [Nodeist](https://nodeist.net)         | <https://nodeist.net/Okp4/>                   | ✅      |
 
 </details>
