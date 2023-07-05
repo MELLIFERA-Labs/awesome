@@ -1,6 +1,6 @@
 # Awesome OKP4
 
-> Awesome OKP4 is a curated list of awesome resources, documents, and tools for [OKP4](https://okp4.network).
+> Awesome OKP4 is a curated list of awesome resources, documents, and tools for [OKP4](https://okp4.network)!
 
 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/okp4/awesome)
 [![lint](https://img.shields.io/github/actions/workflow/status/okp4/awesome/lint.yml?label=Lint&style=for-the-badge&logo=github)](https://github.com/okp4/awesome/actions/workflows/lint.yml)
